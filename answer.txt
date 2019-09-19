@@ -1,0 +1,2 @@
+pull 和 fetch 都是从远程抓数据到本地，不同的是pull相当于fetch和merge的组合拳，
+fetch commit id 在本地可能是1，远程端id可能就是2了
